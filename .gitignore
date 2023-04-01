@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/What is an exception/Avoid division by zero/out/
+/Topics/What is an exception/Avoid division by zero/out/production/classes/
